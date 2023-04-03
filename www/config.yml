@@ -332,6 +332,17 @@ chapters:
   name: Dallas, TX
   twitter: pyladiesdallas
   website: dallas
+- name: Dar es salaam, Tanzania
+  meetup_id: 388958782
+  website: daressalaam
+  image: pyladies_logo.png
+  email: daressalaam@pyladies.com
+  twitter: pyladiesDar
+  meetup: Pyladies-DarEsSalaam
+  github: Pyladies-DarEsSalaam
+  location:
+      latitude: -6.776012
+      longitude: 39.178326
 - email: denver@pyladies.com
   image: pyladies_colorado.png
   location:
